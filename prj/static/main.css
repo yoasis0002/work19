@@ -10,7 +10,7 @@ table td, table th {
   padding: 8px;
 }
 table tr:nth-child(even){background-color: rgba(200, 255, 97, 0.52);}
-table tr:nth-child(odd){background-color: rgba(188, 151, 29, 0.4);}
+table tr:nth-child(odd){background-color: white;}
 table tr:hover {background-color: #ddd;}
 table th {
   padding-top: 12px;
